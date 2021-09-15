@@ -2,7 +2,7 @@
 
 🌟 Estudando Análise e Desenvolvimento de Sistemas
 
-🌟 Focando em aprender mais sobre Python 
+🌟 Focando em Front-End
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaMidori&layout=compact&langs_count=8)](https://github.com/LarissaMidori/github-readme-stats)
